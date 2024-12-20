@@ -1,0 +1,80 @@
+C:\Users\Артём\Desktop\Итоговый проект\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\FragrantWorld.exe
+C:\Users\Артём\Desktop\Итоговый проект\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\FragrantWorld.deps.json
+C:\Users\Артём\Desktop\Итоговый проект\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\FragrantWorld.runtimeconfig.json
+C:\Users\Артём\Desktop\Итоговый проект\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\FragrantWorld.dll
+C:\Users\Артём\Desktop\Итоговый проект\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\FragrantWorld.pdb
+C:\Users\Артём\Desktop\Итоговый проект\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Артём\Desktop\Итоговый проект\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Артём\Desktop\Итоговый проект\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Артём\Desktop\Итоговый проект\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Артём\Desktop\Итоговый проект\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Артём\Desktop\Итоговый проект\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Артём\Desktop\Итоговый проект\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Артём\Desktop\Итоговый проект\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Артём\Desktop\Итоговый проект\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Артём\Desktop\Итоговый проект\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Артём\Desktop\Итоговый проект\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Артём\Desktop\Итоговый проект\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Артём\Desktop\Итоговый проект\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\Артём\Desktop\Итоговый проект\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Артём\Desktop\Итоговый проект\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\DataBaseLibrary.dll
+C:\Users\Артём\Desktop\Итоговый проект\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\DataBaseLibrary.pdb
+C:\Users\Артём\Desktop\Итоговый проект\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.csproj.AssemblyReference.cache
+C:\Users\Артём\Desktop\Итоговый проект\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Артём\Desktop\Итоговый проект\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Артём\Desktop\Итоговый проект\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld_MarkupCompile.cache
+C:\Users\Артём\Desktop\Итоговый проект\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld_MarkupCompile.lref
+C:\Users\Артём\Desktop\Итоговый проект\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Артём\Desktop\Итоговый проект\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.g.resources
+C:\Users\Артём\Desktop\Итоговый проект\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артём\Desktop\Итоговый проект\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.AssemblyInfoInputs.cache
+C:\Users\Артём\Desktop\Итоговый проект\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.AssemblyInfo.cs
+C:\Users\Артём\Desktop\Итоговый проект\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.csproj.CoreCompileInputs.cache
+C:\Users\Артём\Desktop\Итоговый проект\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Fragrant.14885179.Up2Date
+C:\Users\Артём\Desktop\Итоговый проект\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.dll
+C:\Users\Артём\Desktop\Итоговый проект\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\refint\FragrantWorld.dll
+C:\Users\Артём\Desktop\Итоговый проект\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.pdb
+C:\Users\Артём\Desktop\Итоговый проект\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.genruntimeconfig.cache
+C:\Users\Артём\Desktop\Итоговый проект\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\ref\FragrantWorld.dll
+C:\Users\Артём\Desktop\Итоговый проект — копия\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\FragrantWorld.exe
+C:\Users\Артём\Desktop\Итоговый проект — копия\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\FragrantWorld.deps.json
+C:\Users\Артём\Desktop\Итоговый проект — копия\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\FragrantWorld.runtimeconfig.json
+C:\Users\Артём\Desktop\Итоговый проект — копия\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\FragrantWorld.dll
+C:\Users\Артём\Desktop\Итоговый проект — копия\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\FragrantWorld.pdb
+C:\Users\Артём\Desktop\Итоговый проект — копия\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Артём\Desktop\Итоговый проект — копия\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Артём\Desktop\Итоговый проект — копия\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Артём\Desktop\Итоговый проект — копия\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Артём\Desktop\Итоговый проект — копия\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Артём\Desktop\Итоговый проект — копия\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Артём\Desktop\Итоговый проект — копия\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Артём\Desktop\Итоговый проект — копия\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Артём\Desktop\Итоговый проект — копия\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Артём\Desktop\Итоговый проект — копия\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Артём\Desktop\Итоговый проект — копия\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Артём\Desktop\Итоговый проект — копия\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Артём\Desktop\Итоговый проект — копия\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\Артём\Desktop\Итоговый проект — копия\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Артём\Desktop\Итоговый проект — копия\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\DataBaseLibrary.dll
+C:\Users\Артём\Desktop\Итоговый проект — копия\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\DataBaseLibrary.pdb
+C:\Users\Артём\Desktop\Итоговый проект — копия\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.csproj.AssemblyReference.cache
+C:\Users\Артём\Desktop\Итоговый проект — копия\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Артём\Desktop\Итоговый проект — копия\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Артём\Desktop\Итоговый проект — копия\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld_MarkupCompile.cache
+C:\Users\Артём\Desktop\Итоговый проект — копия\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld_MarkupCompile.lref
+C:\Users\Артём\Desktop\Итоговый проект — копия\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Артём\Desktop\Итоговый проект — копия\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.g.resources
+C:\Users\Артём\Desktop\Итоговый проект — копия\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артём\Desktop\Итоговый проект — копия\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.AssemblyInfoInputs.cache
+C:\Users\Артём\Desktop\Итоговый проект — копия\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.AssemblyInfo.cs
+C:\Users\Артём\Desktop\Итоговый проект — копия\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.csproj.CoreCompileInputs.cache
+C:\Users\Артём\Desktop\Итоговый проект — копия\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Fragrant.14885179.Up2Date
+C:\Users\Артём\Desktop\Итоговый проект — копия\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.dll
+C:\Users\Артём\Desktop\Итоговый проект — копия\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\refint\FragrantWorld.dll
+C:\Users\Артём\Desktop\Итоговый проект — копия\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.pdb
+C:\Users\Артём\Desktop\Итоговый проект — копия\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.genruntimeconfig.cache
+C:\Users\Артём\Desktop\Итоговый проект — копия\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\ref\FragrantWorld.dll
+C:\Users\Артём\Desktop\Итоговый проект — копия\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\AuthorizationWindow.g.cs
+C:\Users\Артём\Desktop\Итоговый проект — копия\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\AuthorizationWindow.baml
+C:\Users\Артём\Desktop\Итоговый проект — копия\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\OrderWindow.g.cs
+C:\Users\Артём\Desktop\Итоговый проект — копия\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\OrderWindow.baml

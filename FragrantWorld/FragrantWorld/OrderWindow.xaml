@@ -1,0 +1,61 @@
+﻿<Window x:Class="FragrantWorld.OrderWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FragrantWorld"
+        mc:Ignorable="d"
+        Title="Оформление заказа" Height="490" Width="800" WindowStartupLocation="CenterScreen"
+        MinHeight="490" MinWidth="800" SizeToContent="WidthAndHeight" Icon="/Pictures/icon.ico">
+    <Grid>
+        <StackPanel>
+            <WrapPanel Height="21" VerticalAlignment="Top">
+                <Image Source="/Pictures/logo.png" Margin="5, 0"/>
+                <TextBlock Text="ООО Ароматный мир" Margin="0, 2.5"/>
+            </WrapPanel>
+            <DockPanel HorizontalAlignment="Right">
+                <TextBlock Name="userInfoTextBlock" Margin="10 0"/>
+                <Button x:Name="goBackButton" Content="Назад" Click="GoBackButton_Click"/>
+            </DockPanel>
+            <ScrollViewer VerticalScrollBarVisibility="Auto" Height="250">
+                <ListBox Name="productListBox">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <Border BorderThickness="1" BorderBrush="Black" Margin="5,0,0,0" Padding="3">
+                                <StackPanel Width="700">
+                                    <TextBlock Text="{Binding Name}" FontWeight="Bold"/>
+                                    <TextBlock Text="{Binding Description}"/>
+                                    <TextBlock Text="{Binding StringFormat={}Производитель: {0},Path=Manufacturer}"/>
+                                    <DockPanel>
+                                        <TextBlock Text="Цена: "/>
+                                        <TextBlock Text=" "/>
+                                        <TextBlock Text="{Binding StringFormat={}{0:0.00} руб, Path=Cost}"/>
+                                        <Button x:Name="removeButton" Content="Удалить" DockPanel.Dock="Right" Width="100" HorizontalAlignment="Right" Click="RemoveButton_Click"/>
+                                    </DockPanel>
+                                </StackPanel>
+                            </Border>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+            </ScrollViewer>
+            <TextBlock Text="Выберите пункт выдачи заказа:" Margin="0, 10, 0, 0"/>
+            <ComboBox Name="pickupPointComboBox" Margin="0, 0, 0, 10" DisplayMemberPath="Address"/>
+            <WrapPanel>
+                <TextBlock Text="Номер заказа: " Margin="0,3,3,0"/>
+                <TextBlock x:Name="orderNumberTextBlock"/>
+            </WrapPanel>
+            <WrapPanel>
+                <TextBlock Text="Код получения: " Margin="0,3,3,0"/>
+                <TextBlock Name="receiptCodeTextBlock" FontSize="16" FontWeight="Bold"/>
+            </WrapPanel>
+            <WrapPanel>
+                <TextBlock Text="Сумма заказа: " Margin="0,3,3,0"/>
+                <TextBlock Name="priceTextBlock"/>
+            </WrapPanel>
+            <DockPanel>
+                <Button Name="orderButton" Content="Заказать" Margin="10, 10" Width="100" Click="OrderButton_Click"  DockPanel.Dock="Right"/>
+                <Button Name="saveTicketButton" Content="Сохранить талон получения" Width="200" Margin="10,10" HorizontalAlignment="Left" Click="SaveTicketButton_Click"/>
+            </DockPanel>
+        </StackPanel>
+    </Grid>
+</Window>
